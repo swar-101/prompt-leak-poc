@@ -1,0 +1,23 @@
+{
+  "name": "prompt-leak-poc",
+  "version": "1.0.0",
+  "description": "A demonstration of how LLM-backed applications can be manipulated through prompt injection, subtle yet powerful adversarial inputs that override system behavior.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swar-101/prompt-leak-poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swar-101/prompt-leak-poc/issues"
+  },
+  "homepage": "https://github.com/swar-101/prompt-leak-poc#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
